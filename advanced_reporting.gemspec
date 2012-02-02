@@ -19,4 +19,5 @@ Gem::Specification.new do |s|
   s.add_dependency('spree_core', '>= 0.30.1')
   s.add_dependency('ruport')
   s.add_dependency('ruport-util') #, :lib => 'ruport/util')
+  s.add_dependency('searchlogic')
 end
